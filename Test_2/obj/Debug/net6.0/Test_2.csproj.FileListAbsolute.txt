@@ -1,0 +1,15 @@
+/Users/denis/Desktop/SEMINAR_1/Test_2/bin/Debug/net6.0/Test_2
+/Users/denis/Desktop/SEMINAR_1/Test_2/bin/Debug/net6.0/Test_2.deps.json
+/Users/denis/Desktop/SEMINAR_1/Test_2/bin/Debug/net6.0/Test_2.runtimeconfig.json
+/Users/denis/Desktop/SEMINAR_1/Test_2/bin/Debug/net6.0/Test_2.dll
+/Users/denis/Desktop/SEMINAR_1/Test_2/bin/Debug/net6.0/Test_2.pdb
+/Users/denis/Desktop/SEMINAR_1/Test_2/obj/Debug/net6.0/Test_2.csproj.AssemblyReference.cache
+/Users/denis/Desktop/SEMINAR_1/Test_2/obj/Debug/net6.0/Test_2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/denis/Desktop/SEMINAR_1/Test_2/obj/Debug/net6.0/Test_2.AssemblyInfoInputs.cache
+/Users/denis/Desktop/SEMINAR_1/Test_2/obj/Debug/net6.0/Test_2.AssemblyInfo.cs
+/Users/denis/Desktop/SEMINAR_1/Test_2/obj/Debug/net6.0/Test_2.csproj.CoreCompileInputs.cache
+/Users/denis/Desktop/SEMINAR_1/Test_2/obj/Debug/net6.0/Test_2.dll
+/Users/denis/Desktop/SEMINAR_1/Test_2/obj/Debug/net6.0/refint/Test_2.dll
+/Users/denis/Desktop/SEMINAR_1/Test_2/obj/Debug/net6.0/Test_2.pdb
+/Users/denis/Desktop/SEMINAR_1/Test_2/obj/Debug/net6.0/Test_2.genruntimeconfig.cache
+/Users/denis/Desktop/SEMINAR_1/Test_2/obj/Debug/net6.0/ref/Test_2.dll
